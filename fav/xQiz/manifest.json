@@ -1,5 +1,6 @@
 {
- "name": "FC Themes",
+"short_name": "FC Themes",
+ "name": "FC Themes - App",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
