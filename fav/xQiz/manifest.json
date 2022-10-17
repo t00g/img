@@ -1,6 +1,11 @@
 {
+"name": "FC Themes",
 "short_name": "FC Themes",
- "name": "FC Themes - App",
+  "theme_color": "#ff4d4d",
+  "background_color": "#ffffff",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/",
  "icons": [
   {
    "src": "\/android-icon-36x36.png",
